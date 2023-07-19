@@ -1,0 +1,7 @@
+Order Details (2023-07-18 14-52-14):
+===================================
+Item: Chicken Biryani, Quantity: 2, Price: 500
+Item: Mutton Biryani, Quantity: 1, Price: 350
+===================================
+Total Bill: 850
+===================================
